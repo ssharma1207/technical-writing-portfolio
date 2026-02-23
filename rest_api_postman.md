@@ -12,7 +12,7 @@ REST APIs are available as a Postman collection. To start working with REST APIs
 
 ## Before You Begin
 
-Download the Postman application from the $[Postman](https://www.getpostman.com/) website, and install it on a computer that can communicate with the CommServe computer.
+Download the Postman application from the $[Postman](https://www.getpostman.com/) website, and install it on a computer that can communicate with the Global Server computer.
 
 ## Procedure
 
